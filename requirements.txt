@@ -32,7 +32,7 @@ six==1.12.0
 soupsieve==1.9.3
 testfixtures==6.9.0
 tldextract==2.2.1
-Twisted==19.7.0
+Twisted>=20.3.0
 urllib3==1.25.3
 w3lib==1.21.0
 webencodings==0.5.1
